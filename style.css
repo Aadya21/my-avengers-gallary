@@ -1,0 +1,29 @@
+body{
+    background-color:aqua;
+    text-align: center;
+}
+.top icons{
+         float:left;
+color:blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: fantasy;
+    font-size:20px;
+}
+.photos{
+    text-align: center;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+.collage{
+    text-align: center;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+.videos{
+     text-align: center;
+    border-bottom-color: black;
+    border-top-color: black;
+}
